@@ -18,4 +18,5 @@ Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible par
 
 ## PROGRAMAS UTILIZADOS 
 -GitBash v2.34.1.windows.1
+-Github Desktop 3.00
 
